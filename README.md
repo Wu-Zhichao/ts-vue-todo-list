@@ -1,2 +1,2 @@
-# ts-vue-music
-使用TypeScript+Vue模仿一个网易云音乐WebApp
+# ts-vue-todo-list
+使用TypeScript+Vue实现一个简单的TodoList
